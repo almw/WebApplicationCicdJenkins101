@@ -1,0 +1,7 @@
+C:\app\publish\WebApplicationCicdJenkins101.exe
+C:\app\publish\appsettings.Development.json
+C:\app\publish\appsettings.json
+C:\app\publish\WebApplicationCicdJenkins101.dll
+C:\app\publish\WebApplicationCicdJenkins101.deps.json
+C:\app\publish\WebApplicationCicdJenkins101.runtimeconfig.json
+C:\app\publish\WebApplicationCicdJenkins101.pdb

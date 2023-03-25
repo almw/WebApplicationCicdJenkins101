@@ -1,0 +1,7 @@
+C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\bin\Release\net6.0\publish\WebApplicationCicdJenkins101.exe
+C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\bin\Release\net6.0\publish\appsettings.json
+C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\bin\Release\net6.0\publish\WebApplicationCicdJenkins101.dll
+C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\bin\Release\net6.0\publish\WebApplicationCicdJenkins101.deps.json
+C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\bin\Release\net6.0\publish\WebApplicationCicdJenkins101.runtimeconfig.json
+C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\bin\Release\net6.0\publish\WebApplicationCicdJenkins101.pdb

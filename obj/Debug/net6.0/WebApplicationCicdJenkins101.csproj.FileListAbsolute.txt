@@ -24,3 +24,8 @@ C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\obj\Debug\net6.0\ref
 C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\obj\Debug\net6.0\WebApplicationCicdJenkins101.pdb
 C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\obj\Debug\net6.0\WebApplicationCicdJenkins101.genruntimeconfig.cache
 C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\obj\Debug\net6.0\ref\WebApplicationCicdJenkins101.dll
+C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\obj\Debug\net6.0\staticwebassets\msbuild.WebApplicationCicdJenkins101.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplicationCicdJenkins101.props
+C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationCicdJenkins101.props
+C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplicationCicdJenkins101.props
+C:\Users\PKUFFD01\source\repos\WebApplicationCicdJenkins101\obj\Debug\net6.0\staticwebassets.pack.json
